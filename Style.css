@@ -1,5 +1,6 @@
 html{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
 
 header{
@@ -8,4 +9,10 @@ header{
 
 footer{
     background-color: #ffe0b6;
+}
+
+.tableau{
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
